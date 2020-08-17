@@ -1,4 +1,4 @@
-Currently developing cloud solutions for healthcare in San Diego, California. 
+Currently developing healthcare-focused cloud solutions in San Diego, California. 
 
 Personal Website: http://MoBattah.io
 
